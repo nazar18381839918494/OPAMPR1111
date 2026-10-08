@@ -12,6 +12,7 @@ namespace ConsoleApp6
         {
             Console.WriteLine("Hello, Byden!");
             Console.WriteLine("Hello, Obama!");
+            Console.WriteLine("Hello!");
         }
     }
 }
